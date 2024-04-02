@@ -1,0 +1,82 @@
+.a0{
+    border: 1px;
+    width: 390px;
+    height: 844px;
+}
+.a1{
+    position: absolute;
+    top: 2rem;
+    left: 34rem;
+    font-size: 1.5rem;
+    color: blueviolet;
+}
+.a2{
+    position: static;
+}
+.a3{
+    position: absolute;
+    top: 10rem;
+    left: 15rem;
+    font-size: 3.5rem;
+}
+.a4{
+    position: absolute;
+    top: 16rem;
+    left: 12.5rem;
+    font-size: 1.5rem;
+    color: rgb(103, 102, 102);
+
+}
+.a5{
+    position: absolute;
+    height: 60px;
+    top: 24rem;
+    left: 3.5rem;
+}
+.a6{
+    position: absolute;
+    height: 62px;
+    top: 32rem;
+    left: 3.5rem;
+}
+.a7{
+    position: absolute;
+    height: 62px;
+    top: 41.2rem;
+    left: 3.5rem;
+}
+.a8{
+    position: absolute;
+    height: 40px;
+    top: 50.6em;
+    left: 3.5rem;
+}
+.a9{
+    position: absolute;
+    height: 14.5px;
+    top: 60rem;
+    left: 8rem;
+}
+.a10{
+    position: absolute;
+    top: 65.5rem;
+    left: 11rem;
+}
+.a11{
+    position: absolute;
+    top: 45rem;
+    left: 0;
+}
+.a12{
+    position: absolute;
+    font-size: 1.4rem;
+    top: 73.5rem;
+    left: 10rem;
+}
+.a13{
+    position: absolute;
+    font-size: 1.4rem;
+    top: 73.5rem;
+    left: 23.5rem;
+    color: blueviolet;
+}

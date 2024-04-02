@@ -1,0 +1,50 @@
+.w1{
+    border: 1px;
+    width: 390px;
+    height: 844px;
+}
+.w2{
+    position: static;
+}
+.w3{
+    position: absolute;
+    height: 57px;
+    top: 8.5rem;
+    left: 3rem;
+}
+.w4{
+    position: absolute;
+    height: 225px;
+    top: 20rem;
+    left: 1rem;
+}
+.w5{
+    position: absolute;
+    height: 85.5px;
+    top: 42rem;
+    left: 2.5rem;
+}
+.w6{
+    position: absolute;
+    height: 23.5px;
+    top: 51.5rem;
+    left: 3rem;
+}
+.w7{
+    position: absolute;
+    height: 95px;
+    top: 56rem;
+    left: 2.5rem;
+}
+.w8{
+    position: absolute;
+    height: 85px;
+    top: 67rem;
+    left: 1rem;
+}
+.w9{
+    position: absolute;
+    width: 389px;
+    left: 0rem;
+    top: 74rem;
+}

@@ -1,0 +1,14 @@
+.z1{
+    border: 1px;
+    width: 390px;
+    height: 844px;
+}
+.z2{
+    position: static;
+}
+.z3{
+    position: absolute;
+    width: 389px;
+    top: 78rem;
+    left: 0rem;
+}

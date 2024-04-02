@@ -1,0 +1,93 @@
+.cn{
+    border: 1px;
+    width: 390px;
+    height: 844px;
+}
+.sd{
+    position: absolute;
+    top: 2rem;
+    left: 34rem;
+    font-size: 1.5rem;
+    color: blueviolet;
+}
+.g1{
+    position: static;
+}
+.g8{
+    position: absolute;
+    top: 45rem;
+    left: 0;
+}
+.ta1{
+    position: absolute;
+    top: 10rem;
+    left: 15rem;
+    font-size: 3.5rem;
+}
+.tq1{
+    position: absolute;
+    top: 16rem;
+    left: 9.5rem;
+    font-size: 1.2rem;
+    color: rgb(103, 102, 102);
+}
+.g2{
+    position: absolute;
+    height: 60px;
+    top: 23.5rem;
+    left: 5rem;
+}
+.tq2{
+    position: absolute;
+    top: 30.8rem;
+    left: 5rem;
+    font-size: 1.5rem;
+}
+.g7{
+    position: absolute;
+    top: 34.7rem;
+    left: 6.5rem;
+}
+.g3{
+    position: absolute;
+    height: 40px;
+    top: 33rem;
+    left: 5rem;
+}
+.tq3{
+    position: absolute;
+    top: 38rem;
+    left: 26rem;
+    font-size: 1.2rem;
+    color:  blueviolet;
+}
+.g4{
+    position: absolute;
+    height: 38.5px;
+    top: 44rem;
+    left: 5rem;
+}
+.g5{
+    position: absolute;
+    height: 14.5px;
+    top: 55rem;
+    left: 8.5rem;
+}
+.g6{
+    position: absolute;
+    top: 63.5rem;
+    left: 11.5rem;
+}
+.tq4{
+    position: absolute;
+    font-size: 1.4rem;
+    top: 73.5rem;
+    left: 10rem;
+}
+.tq5{
+    position: absolute;
+    font-size: 1.4rem;
+    top: 73.5rem;
+    left: 23.5rem;
+    color: blueviolet;
+}
